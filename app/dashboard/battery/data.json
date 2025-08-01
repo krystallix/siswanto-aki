@@ -1,0 +1,356 @@
+[
+  {
+    "ID": 1,
+    "CreatedAt": "2025-07-30T07:17:52.570105Z",
+    "UpdatedAt": "2025-07-30T07:17:52.570117Z",
+    "DeletedAt": null,
+    "Name": "Yuasa NS70",
+    "Brand": "Yuasa",
+    "Series": "NS70",
+    "Type": "kering",
+    "Ampere": 60,
+    "Price": 1380000,
+    "OriginalPrice": 1320467,
+    "Stock": 4,
+    "ImageURL": "https://i0.wp.com/ramajayaki.com/wp-content/uploads/2017/10/Aki-GSMF_NS40.jpg?w=450&ssl=1",
+    "Badge": null,
+    "Description": null,
+    "CompatibleVehicles": [
+      {
+        "ID": 1,
+        "Name": "Toyota Avanza",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      }
+    ]
+  },
+  {
+    "ID": 2,
+    "CreatedAt": "2025-07-30T07:17:52.570167Z",
+    "UpdatedAt": "2025-07-30T07:17:52.570173Z",
+    "DeletedAt": null,
+    "Name": "Amaron NS70",
+    "Brand": "Amaron",
+    "Series": "NS70",
+    "Type": "basah",
+    "Ampere": 70,
+    "Price": 1477700,
+    "OriginalPrice": 1415150,
+    "Stock": 9,
+    "ImageURL": "https://i0.wp.com/ramajayaki.com/wp-content/uploads/2017/10/Aki-GSMF_NS40.jpg?w=450&ssl=1",
+    "Badge": null,
+    "Description": null,
+    "CompatibleVehicles": [
+      {
+        "ID": 1,
+        "Name": "Daihatsu Xenia",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      },
+      {
+        "ID": 2,
+        "Name": "Toyota Avanza",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      },
+      {
+        "ID": 3,
+        "Name": "Karimun",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      }
+    ]
+  },
+  {
+    "ID": 3,
+    "CreatedAt": "2025-07-30T07:17:52.570210Z",
+    "UpdatedAt": "2025-07-30T07:17:52.570215Z",
+    "DeletedAt": null,
+    "Name": "Incoe DIN55",
+    "Brand": "Incoe",
+    "Series": "DIN55",
+    "Type": "hybrid",
+    "Ampere": 45,
+    "Price": 999855,
+    "OriginalPrice": 927708,
+    "Stock": 1,
+    "ImageURL": "https://i0.wp.com/ramajayaki.com/wp-content/uploads/2017/10/Aki-GSMF_NS40.jpg?w=450&ssl=1",
+    "Badge": null,
+    "Description": null,
+    "CompatibleVehicles": [
+      {
+        "ID": 1,
+        "Name": "Toyota Avanza",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      }
+    ]
+  },
+  {
+    "ID": 4,
+    "CreatedAt": "2025-07-30T07:17:52.570243Z",
+    "UpdatedAt": "2025-07-30T07:17:52.570246Z",
+    "DeletedAt": null,
+    "Name": "Bosch NS60L",
+    "Brand": "Bosch",
+    "Series": "NS60L",
+    "Type": "hybrid",
+    "Ampere": 35,
+    "Price": 770840,
+    "OriginalPrice": 643774,
+    "Stock": 7,
+    "ImageURL": "https://i0.wp.com/ramajayaki.com/wp-content/uploads/2017/10/Aki-GSMF_NS40.jpg?w=450&ssl=1",
+    "Badge": null,
+    "Description": null,
+    "CompatibleVehicles": [
+      {
+        "ID": 1,
+        "Name": "Toyota Avanza",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      }
+    ]
+  },
+  {
+    "ID": 5,
+    "CreatedAt": "2025-07-30T07:17:52.570262Z",
+    "UpdatedAt": "2025-07-30T07:17:52.570264Z",
+    "DeletedAt": null,
+    "Name": "GS Astra 46B24L",
+    "Brand": "GS",
+    "Series": "Astra",
+    "Type": "hybrid",
+    "Ampere": 70,
+    "Price": 1666070,
+    "OriginalPrice": 1569049,
+    "Stock": 5,
+    "ImageURL": "https://i0.wp.com/ramajayaki.com/wp-content/uploads/2017/10/Aki-GSMF_NS40.jpg?w=450&ssl=1",
+    "Badge": null,
+    "Description": null,
+    "CompatibleVehicles": [
+      {
+        "ID": 1,
+        "Name": "Karimun",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      },
+      {
+        "ID": 2,
+        "Name": "Suzuki Ertiga",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      }
+    ]
+  },
+  {
+    "ID": 6,
+    "CreatedAt": "2025-07-30T07:17:52.570279Z",
+    "UpdatedAt": "2025-07-30T07:17:52.570281Z",
+    "DeletedAt": null,
+    "Name": "Amaron NS60L",
+    "Brand": "Amaron",
+    "Series": "NS60L",
+    "Type": "kering",
+    "Ampere": 45,
+    "Price": 1097910,
+    "OriginalPrice": 1018442,
+    "Stock": 2,
+    "ImageURL": "https://i0.wp.com/ramajayaki.com/wp-content/uploads/2017/10/Aki-GSMF_NS40.jpg?w=450&ssl=1",
+    "Badge": null,
+    "Description": null,
+    "CompatibleVehicles": [
+      {
+        "ID": 1,
+        "Name": "Suzuki Ertiga",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      }
+    ]
+  },
+  {
+    "ID": 7,
+    "CreatedAt": "2025-07-30T07:17:52.570295Z",
+    "UpdatedAt": "2025-07-30T07:17:52.570297Z",
+    "DeletedAt": null,
+    "Name": "Incoe 46B24L",
+    "Brand": "Incoe",
+    "Series": "46B24L",
+    "Type": "basah",
+    "Ampere": 55,
+    "Price": 1027950,
+    "OriginalPrice": 959932,
+    "Stock": 3,
+    "ImageURL": "https://i0.wp.com/ramajayaki.com/wp-content/uploads/2017/10/Aki-GSMF_NS40.jpg?w=450&ssl=1",
+    "Badge": null,
+    "Description": null,
+    "CompatibleVehicles": [
+      {
+        "ID": 1,
+        "Name": "Karimun",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      },
+      {
+        "ID": 2,
+        "Name": "Toyota Avanza",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      },
+      {
+        "ID": 3,
+        "Name": "Suzuki Ertiga",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      }
+    ]
+  },
+  {
+    "ID": 8,
+    "CreatedAt": "2025-07-30T07:17:52.570316Z",
+    "UpdatedAt": "2025-07-30T07:17:52.570318Z",
+    "DeletedAt": null,
+    "Name": "Yuasa NS40Z",
+    "Brand": "Yuasa",
+    "Series": "NS40Z",
+    "Type": "basah",
+    "Ampere": 70,
+    "Price": 1604610,
+    "OriginalPrice": 1485150,
+    "Stock": 3,
+    "ImageURL": "https://i0.wp.com/ramajayaki.com/wp-content/uploads/2017/10/Aki-GSMF_NS40.jpg?w=450&ssl=1",
+    "Badge": null,
+    "Description": null,
+    "CompatibleVehicles": [
+      {
+        "ID": 1,
+        "Name": "Suzuki Ertiga",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      },
+      {
+        "ID": 2,
+        "Name": "Honda Jazz",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      }
+    ]
+  },
+  {
+    "ID": 9,
+    "CreatedAt": "2025-07-30T07:17:52.570336Z",
+    "UpdatedAt": "2025-07-30T07:17:52.570338Z",
+    "DeletedAt": null,
+    "Name": "Incoe DIN55",
+    "Brand": "Incoe",
+    "Series": "DIN55",
+    "Type": "kering",
+    "Ampere": 70,
+    "Price": 1733200,
+    "OriginalPrice": 1586200,
+    "Stock": 6,
+    "ImageURL": "https://i0.wp.com/ramajayaki.com/wp-content/uploads/2017/10/Aki-GSMF_NS40.jpg?w=450&ssl=1",
+    "Badge": null,
+    "Description": null,
+    "CompatibleVehicles": [
+      {
+        "ID": 1,
+        "Name": "Toyota Avanza",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      },
+      {
+        "ID": 2,
+        "Name": "Honda Jazz",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      },
+      {
+        "ID": 3,
+        "Name": "Daihatsu Xenia",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      }
+    ]
+  },
+  {
+    "ID": 10,
+    "CreatedAt": "2025-07-30T07:17:52.570353Z",
+    "UpdatedAt": "2025-07-30T07:17:52.570355Z",
+    "DeletedAt": null,
+    "Name": "Bosch NS70",
+    "Brand": "Bosch",
+    "Series": "NS70",
+    "Type": "hybrid",
+    "Ampere": 55,
+    "Price": 1349480,
+    "OriginalPrice": 1247726,
+    "Stock": 4,
+    "ImageURL": "https://i0.wp.com/ramajayaki.com/wp-content/uploads/2017/10/Aki-GSMF_NS40.jpg?w=450&ssl=1",
+    "Badge": null,
+    "Description": null,
+    "CompatibleVehicles": [
+      {
+        "ID": 1,
+        "Name": "Suzuki Ertiga",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      },
+      {
+        "ID": 2,
+        "Name": "Honda Jazz",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      }
+    ]
+  },
+  {
+    "ID": 11,
+    "CreatedAt": "2025-07-30T07:17:52.570367Z",
+    "UpdatedAt": "2025-07-30T07:17:52.570371Z",
+    "DeletedAt": null,
+    "Name": "Bosch NS40Z",
+    "Brand": "Bosch",
+    "Series": "NS40Z",
+    "Type": "kering",
+    "Ampere": 60,
+    "Price": 1222020,
+    "OriginalPrice": 1129150,
+    "Stock": 10,
+    "ImageURL": "https://i0.wp.com/ramajayaki.com/wp-content/uploads/2017/10/Aki-GSMF_NS40.jpg?w=450&ssl=1",
+    "Badge": null,
+    "Description": null,
+    "CompatibleVehicles": [
+      {
+        "ID": 1,
+        "Name": "Toyota Avanza",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      }
+    ]
+  },
+  {
+    "ID": 12,
+    "CreatedAt": "2025-07-30T07:17:52.570395Z",
+    "UpdatedAt": "2025-07-30T07:17:52.570400Z",
+    "DeletedAt": null,
+    "Name": "Amaron NS40Z",
+    "Brand": "Amaron",
+    "Series": "NS40Z",
+    "Type": "basah",
+    "Ampere": 45,
+    "Price": 965970,
+    "OriginalPrice": 830540,
+    "Stock": 5,
+    "ImageURL": "https://i0.wp.com/ramajayaki.com/wp-content/uploads/2017/10/Aki-GSMF_NS40.jpg?w=450&ssl=1",
+    "Badge": null,
+    "Description": null,
+    "CompatibleVehicles": [
+      {
+        "ID": 1,
+        "Name": "Suzuki Ertiga",
+        "BatteryCodes": "{NS40Z,NS40}",
+        "CompatibleBatteries": null
+      }
+    ]
+  }
+]
